@@ -1,0 +1,22 @@
+{
+  "name": "CPSwiftExtencions",
+  "version": "0.1.0",
+  "summary": "A short description of CPSwiftExtencions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cristianodp@gmail.com/CPSwiftExtencions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cristianodp@gmail.com": "cristianodp@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/cristianodp@gmail.com/CPSwiftExtencions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CPSwiftExtencions/Classes/**/*"
+}

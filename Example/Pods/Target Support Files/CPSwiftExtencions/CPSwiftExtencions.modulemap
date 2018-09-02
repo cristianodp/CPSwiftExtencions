@@ -1,0 +1,6 @@
+framework module CPSwiftExtencions {
+  umbrella header "CPSwiftExtencions-umbrella.h"
+
+  export *
+  module * { export * }
+}
