@@ -9,6 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CPSwiftExtencions'
   s.version          = '0.1.0'
+  s.swift_version    = '4.0'
   s.summary          = 'This pod is a collection of some utils extinctions useful for iOS development.'
 
 # This description is used to generate tags and improve search results.
