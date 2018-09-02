@@ -27,7 +27,7 @@ Example of implementation
 ```swift
 import CPSwiftExtencions
 
-func exemple(){
+func example(){
     var d = Date()
     
     //add days on current date
