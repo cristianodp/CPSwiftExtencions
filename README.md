@@ -22,7 +22,7 @@ pod 'CPSwiftExtencions'
 
 ## Author
 
-cristianodp@gmail.com, cristianodp@gmail.com
+Cristiano Diniz Pinto, cristianodp@gmail.com
 
 ## License
 
