@@ -20,6 +20,32 @@ it, simply add the following line to your Podfile:
 pod 'CPSwiftExtencions'
 ```
 
+## How to use
+
+----
+Example of implementation
+```swift
+import CPSwiftExtencions
+
+func exemple(){
+    var d = Date()
+    
+    //add days on current date
+    d.add(days: 5)
+    print(d)
+    
+    
+    //add hours on current date
+    d.add(hours: 12)
+    print(d)
+    
+    
+    //add hours on current date
+    d.add(minutes: 10)
+    print(d)
+}
+```
+
 ## Author
 
 Cristiano Diniz Pinto, cristianodp@gmail.com
