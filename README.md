@@ -1,6 +1,6 @@
 # CPSwiftExtencions
 
-[![CI Status](https://img.shields.io/travis/cristianodp@gmail.com/CPSwiftExtencions.svg?style=flat)](https://travis-ci.org/cristianodp@gmail.com/CPSwiftExtencions)
+[![CI Status](https://img.shields.io/travis/cristianodiniz/CPSwiftExtencions.svg?style=flat)](https://travis-ci.org/cristianodiniz/CPSwiftExtencions)
 [![Version](https://img.shields.io/cocoapods/v/CPSwiftExtencions.svg?style=flat)](https://cocoapods.org/pods/CPSwiftExtencions)
 [![License](https://img.shields.io/cocoapods/l/CPSwiftExtencions.svg?style=flat)](https://cocoapods.org/pods/CPSwiftExtencions)
 [![Platform](https://img.shields.io/cocoapods/p/CPSwiftExtencions.svg?style=flat)](https://cocoapods.org/pods/CPSwiftExtencions)
