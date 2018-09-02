@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CPSwiftExtencions'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.swift_version    = '4.0'
   s.summary          = 'This pod is a collection of some utils extinctions useful for iOS development.'
 
@@ -25,11 +25,11 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/cristianodiniz/CPSwiftExtencions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'cristianodp@gmail.com' => 'cristianodp@gmail.com' }
+  s.author           = { 'Cristiano Diniz Pinto' => 'cristianodp@gmail.com' }
   s.source           = { :git => 'https://github.com/cristianodiniz/CPSwiftExtencions.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.4'
 
   s.source_files = 'CPSwiftExtencions/Classes/*.swift'
   
